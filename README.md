@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🤖 Rule-Based Chatbot
 
 A simple Rule-Based Chatbot built using Python.  
@@ -111,3 +112,7 @@ The purpose of this project is to understand:
 ## 👩‍💻 Author
 
 Vaishnavi Badwaik
+=======
+# AI-Journey
+A series of working on AI concepts
+>>>>>>> 8d5f8bb25ee596bfc57035f79552c18beaef7593
