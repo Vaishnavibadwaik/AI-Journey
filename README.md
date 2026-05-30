@@ -1,118 +1,132 @@
-<<<<<<< HEAD
 # 🤖 Rule-Based Chatbot
 
-A simple Rule-Based Chatbot built using Python.  
-The chatbot responds to user inputs using predefined rules and if-else statements.
+A simple Rule-Based Chatbot built using Python and Streamlit.
+
+The chatbot responds to user inputs using predefined rules and pattern matching techniques. This project demonstrates the fundamentals of Natural Language Processing (NLP), conversation flow, and interactive web application development.
 
 ---
 
-## 📌 Features
+## 🚀 Features
 
-- Greeting responses
-- Joke responses
-- Fun facts
-- Help menu
-- Bot name response
-- Exit command
-- Simple conversation flow
+* Interactive chat interface using Streamlit
+* Greeting responses
+* Joke responses
+* Fun facts
+* Help menu
+* Bot name response
+* Exit command
+* Session-based chat history
+* Simple conversation flow
 
 ---
 
 ## 🛠️ Technologies Used
 
-- Python 3
+* Python 3
+* Streamlit
 
 ---
 
 ## 📂 Project Structure
 
 ```text
-rule_based_chatbot/
+AI-Journey/
 │
-├── bot.py
-├── README.md
-├── requirements.txt
-└── .gitignore
+└── rule_based_chatbot/
+    ├── app.py
+    ├── README.md
+    ├── requirements.txt
+    └── .gitignore
 ```
 
 ---
 
-## ▶️ How to Run
+## ▶️ Installation
 
-### Step 1: Clone Repository
+### Clone the Repository
 
 ```bash
-git clone <your-github-repo-link>
+git clone https://github.com/Vaishnavibadwaik/AI-Journey.git
 ```
 
-### Step 2: Move to Project Folder
+### Navigate to the Project
 
 ```bash
-cd rule_based_chatbot
+cd AI-Journey/rule_based_chatbot
 ```
 
-### Step 3: Run the Chatbot
+### Install Dependencies
 
 ```bash
-python bot.py
+pip install -r requirements.txt
+```
+
+### Run the Application
+
+```bash
+streamlit run app.py
 ```
 
 ---
 
 ## 💬 Available Commands
 
-- hello / hi
-- how are you
-- joke
-- fact
-- your name
-- help
-- bye
+* hello / hi / hey
+* how are you
+* joke
+* fact
+* your name
+* help
+* bye
 
 ---
 
-## 📸 Sample Output
+## 📸 Sample Conversation
 
 ```text
-🤖 Chatbot: Hello! Type 'help' to see options.
-
 You: hi
-🤖 Chatbot: Hello!
+
+Bot: Hello!
 
 You: joke
-🤖 Chatbot: Why do programmers prefer dark mode? Because light attracts bugs!
 
-You: bye
-🤖 Chatbot: Goodbye 😊
+Bot: Why do programmers prefer dark mode?
+Because light attracts bugs!
+
+You: fact
+
+Bot: Python is one of the most popular programming languages.
 ```
 
 ---
 
-## 🎯 Objective
+## 🎯 Learning Objectives
 
-The purpose of this project is to understand:
+This project helps in understanding:
 
-- Rule-based conversation systems
-- Basic Natural Language Processing concepts
-- Pattern matching using if-else statements
-- Conversation flow handling
+* Rule-Based Chatbot Design
+* Basic NLP Concepts
+* Pattern Matching
+* User Interaction Handling
+* Conversation Flow Management
+* Streamlit Web Application Development
 
 ---
 
-## 🚀 Future Improvements
+## 🔮 Future Enhancements
 
-- GUI using Tkinter
-- Web chatbot using Streamlit
-- Voice assistant
-- Database memory
-- AI integration
+* User Name Memory
+* Voice Input
+* Dark Mode UI
+* Sentiment Analysis
+* FAQ Knowledge Base
+* Machine Learning Intent Classification
+* LLM Integration
 
 ---
 
 ## 👩‍💻 Author
 
 Vaishnavi Badwaik
-=======
-# AI-Journey
-A series of working on AI concepts
->>>>>>> 8d5f8bb25ee596bfc57035f79552c18beaef7593
+
+MCA Student | AI & Machine Learning Enthusiast
