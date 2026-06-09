@@ -1,0 +1,8 @@
+# ============================================
+# AI Tic Tac Toe Game Requirements
+# ============================================
+
+# Tkinter is generally included with Python installations.
+# No additional external libraries are required.
+
+tk
