@@ -1,6 +1,24 @@
+<<<<<<< HEAD
+=======
+# Python cache
+>>>>>>> 1e862d9e8dd572ab69b53a957228a58c25496997
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+<<<<<<< HEAD
 .env
 venv/
+=======
+
+# Virtual Environment
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# System Files
+.DS_Store
+Thumbs.db
+>>>>>>> 1e862d9e8dd572ab69b53a957228a58c25496997
